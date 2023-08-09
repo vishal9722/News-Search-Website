@@ -1,4 +1,4 @@
-const API_KEY = "29fd0495db6c4ee0ad74d1f73dd54909";
+const API_KEY = "97d24726acf24b0b91b42cd7d18ed64f";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => fetchNews("todays news"));
